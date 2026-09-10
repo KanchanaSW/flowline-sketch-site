@@ -2,7 +2,7 @@
 
 Hand-drawn sketch landing page for Flowline, an AI project management tool.
 
-**Live:** [https://sketch-site.sk-personalusername.workers.dev/](https://sketch-site.sk-personalusername.workers.dev/)
+**Live:** [https://sketch-site.skw-dev.workers.dev/h](https://sketch-site.skw-dev.workers.dev/)
 
 Built with Next.js 14, React, Tailwind CSS, and Framer Motion. Deployed as a static site on Cloudflare Workers.
 
@@ -17,12 +17,16 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Scripts
 
-| Command | Description |
-| --- | --- |
-| `npm run dev` | Start the Next.js dev server |
-| `npm run build` | Static export to `out/` |
-| `npm run lint` | Run ESLint |
+
+| Command          | Description                            |
+| ---------------- | -------------------------------------- |
+| `npm run dev`    | Start the Next.js dev server           |
+| `npm run build`  | Static export to `out/`                |
+| `npm run lint`   | Run ESLint                             |
 | `npm run deploy` | Build and deploy to Cloudflare Workers |
+
+
+
 
 ## Deploy
 

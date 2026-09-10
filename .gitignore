@@ -13,6 +13,7 @@
 /.next/
 /out/
 .netlify
+.wrangler
 
 # production
 /build
